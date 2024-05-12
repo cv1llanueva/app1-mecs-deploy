@@ -9,7 +9,7 @@
      image: carlosvillanuevaalcarraz/websimple
      ports:
        - 8080:80
-    salient:
+   salient:
      image: carlosvillanuevaalcarraz/salient
      ports:
-       - 8081:80 
+       - 8081:80
